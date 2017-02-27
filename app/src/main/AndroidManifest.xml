@@ -28,11 +28,10 @@
         <receiver android:name="com.example.Broadcast_Intent_Tool.MyReceiver">
 
             <intent-filter>
-                <action android:name="com.mooshim.mooshimeter.CUSTOM_INTENT">
+                <action android:name="com.mooshim.mooshimeter.CH">
                 </action>
             </intent-filter>
 
         </receiver>
-
     </application>
 </manifest>
